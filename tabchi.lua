@@ -244,7 +244,7 @@ function process(msg)
 لیست مخاطب
 دريافت مخاطبان ذخيره شده توسط ربات
 
-Join _us_ >> @telestrong*
+Join _us_ >> @tel_strong*
 ]]
     return text
   end
@@ -277,7 +277,7 @@ Join _us_ >> @telestrong*
           }, dl_cb, nil)
         else
           local text = [[
-powered by @sha_dee and channel @telestrong
+powered by @sha_dee and channel @tel_strong
 
 💬 اطلاعات 💬 :
 
