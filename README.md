@@ -99,8 +99,8 @@ cd tablighchi
 ./diamond.sh
 ```
 
-#Ch: [@TeleDiamondCh](http://telegram.me/telediamondch)
+#Ch: [@Telestrong](http://telegram.me/telediamondch)
 
-#Opened By: [@Mrr619](http://telegram.me/Mrr619)
+#Opened By: [@sha_dee](http://telegram.me/sha_dee)
 
-#Developer: Amirsbss
+#Developer: me
